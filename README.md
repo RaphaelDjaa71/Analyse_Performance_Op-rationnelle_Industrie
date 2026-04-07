@@ -1,7 +1,7 @@
 # Analyse de la Performance Opérationnelle Industrielle
-<img width="3008" height="1692" alt="🏭 Performance Opérationnelle" src="https://github.com/user-attachments/assets/6172a518-1391-471d-9852-bf0df58cab2a" />
-<img width="3008" height="1692" alt="⚠️ Non-Conformités" src="https://github.com/user-attachments/assets/3f6c75b3-4007-4f64-b4d0-1bd0beefe084" />
-<img width="3008" height="1692" alt="🎓 Habilitations" src="https://github.com/user-attachments/assets/4d3f9873-78ed-40e8-9635-ab5fb0bcf661" />
+<img width="3008" height="1692" alt="Capture d’écran 2026-04-07 à 15 51 26 (2)" src="https://github.com/user-attachments/assets/04a7d699-1936-437e-bda0-bbcac5e5dc97" />
+<img width="3008" height="1692" alt="Capture d’écran 2026-04-07 à 15 51 35 (2)" src="https://github.com/user-attachments/assets/abc998f1-f77b-4803-836e-b61366412ac5" />
+<img width="3008" height="1692" alt="Capture d’écran 2026-04-07 à 15 51 43 (2)" src="https://github.com/user-attachments/assets/3bfdad36-a014-495b-96a7-fe2be25c937e" />
 
 ## Vue d’ensemble
 
